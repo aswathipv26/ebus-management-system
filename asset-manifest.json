@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ebus-management-system/static/css/main.18332394.css",
+    "main.js": "/ebus-management-system/static/js/main.add59734.js",
+    "index.html": "/ebus-management-system/index.html",
+    "main.18332394.css.map": "/ebus-management-system/static/css/main.18332394.css.map",
+    "main.add59734.js.map": "/ebus-management-system/static/js/main.add59734.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18332394.css",
+    "static/js/main.add59734.js"
+  ]
+}
